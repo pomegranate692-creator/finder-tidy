@@ -15,7 +15,7 @@ Finder Tidy looks at every loose file, figures out what it is, and moves it into
 
 **What it looks like in Finder:**
 
-![Finder after running Finder Tidy](docs/finder-after.png)
+![Finder after running Finder Tidy](docs/finder.png)
 
 ## Quick start
 
